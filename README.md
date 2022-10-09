@@ -1,1 +1,1 @@
-# fa22-ai-team-2
+# GAIN (Gamers for Artifical Intelligence and NLP)
