@@ -1,9 +1,11 @@
 # GAIN (Gamers for Artifical Intelligence and NLP)
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
+
 ## Team members
 Samvirit Srinath, Benjamin Johnson, Peter Gao, Calvin Nguyen, Skyler Goh, Joon Kim
 
-## Project summary
+## Project Summary
 
 Our project will involve making two separate models:
 1. The first model will allow us to classify the political bias present in a sentence. This model will be trained on a data set containing sentences labeled liberal or conservative, and ultimately output a number on a scale of -1 to 1.
