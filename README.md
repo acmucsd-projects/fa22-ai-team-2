@@ -9,8 +9,7 @@ This is the official repository for the Political Sentiment Analysis authored by
 
 # The App
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
-
-[Google CoLab](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
 
 
 ## Project Summary
@@ -30,9 +29,9 @@ Feel free to take a look at the Google CoLab Notebook we utilized throughout the
 
 ## Developer Info
 - Mentor: Weiji Chen
-- Samvrit Srinath: [Linkedin](https://www.linkedin.com/in/samvrit-srinath/), [Github](https://github.com/SamvritSrinath)
+- Samvrit Srinath: [LinkedIn](https://www.linkedin.com/in/samvrit-srinath/) | [GitHub](https://github.com/SamvritSrinath)
 - Benjamin Johnson: 
-- Peter Gao: [Linkedin](https://www.linkedin.com/in/peter-gao-14979b242/), [Github](https://github.com/Spacefroyo)
-- Calvin Nguyen: [Linkedin](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/), [Github](https://github.com/Neniflight)
+- Peter Gao: [LinkedIn](https://www.linkedin.com/in/peter-gao-14979b242/) | [GitHub](https://github.com/Spacefroyo)
+- Calvin Nguyen: [LinkedIn](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/) | [GitHub](https://github.com/Neniflight)
 - Skyler Goh: 
-- Joon Kim: 
+- Joon Kim: [LinkedIn](https://www.linkedin.com/in/joon-kim-x64/) | [GitHub](https://github.com/jnkm1024)
