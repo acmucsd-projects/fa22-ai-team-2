@@ -20,6 +20,7 @@ Our project will involve one model:
 
 ## Dataset
 We plan to use this dataset of posts from conservative and liberal subreddited labeled by the source(liberal/conservative). We encountered some bias and leanings towards more negative sentiment titles, so  pre-processing and ensuring a good spread of data was crucial to the success of the project.
+
 https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts?resource=download
 
 ## Developer Info
