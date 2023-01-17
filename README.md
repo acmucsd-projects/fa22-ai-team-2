@@ -32,7 +32,7 @@ Feel free to take a look at the Google CoLab Notebook we utilized throughout the
 - Mentor: Weiji Chen
 - Samvrit Srinath: [Linkedin](https://www.linkedin.com/in/samvrit-srinath/), [Github](https://github.com/SamvritSrinath)
 - Benjamin Johnson: 
-- Peter Gao: 
+- Peter Gao: [Linkedin](https://www.linkedin.com/in/peter-gao-14979b242/), [Github](https://github.com/Spacefroyo)
 - Calvin Nguyen: [Linkedin](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/), [Github](https://github.com/Neniflight)
 - Skyler Goh: 
 - Joon Kim: 
