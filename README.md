@@ -9,7 +9,7 @@ This is the official repository for the Political Sentiment Analysis authored by
 
 # The App
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
 
 
 ## Project Summary
