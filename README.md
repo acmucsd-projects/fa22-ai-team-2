@@ -28,6 +28,6 @@ https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-1
 - Samvrit Srinath: [Linkedin](https://www.linkedin.com/in/samvrit-srinath/), [Github](https://github.com/SamvritSrinath)
 - Benjamin Johnson: 
 - Peter Gao: 
-- Calvin Nguyen: 
+- Calvin Nguyen: [Linkedin](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/), [Github](https://github.com/Neniflight)
 - Skyler Goh: 
 - Joon Kim: 
