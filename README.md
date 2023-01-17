@@ -16,7 +16,7 @@ Samvrit Srinath, Benjamin Johnson, Peter Gao, Calvin Nguyen, Skyler Goh, Joon Ki
 ## Project Summary
 
 Our project will involve one model:
-1. The first model will allow us to classify the political bias present in a sentence. This model will be trained on a data set containing sentences labeled liberal or conservative, and ultimately output a number on a scale of -1 to 1. We are using a transformer to reflect and process text snippets and output the political bias/sentiment of a certain text. 
+1. The model will allow us to classify the political bias present in a sentence. This model will be trained on a data set containing sentences labeled liberal or conservative, and ultimately output a number on a scale of -1 to 1. We are using a transformer to reflect and process text snippets and output the political bias/sentiment of a certain text. 
 
 ## Dataset
 We plan to use this dataset of posts from conservative and liberal subreddited labeled by the source(liberal/conservative). We encountered some bias and leanings towards more negative sentiment titles, so  pre-processing and ensuring a good spread of data was crucial to the success of the project.
