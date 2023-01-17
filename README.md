@@ -23,9 +23,9 @@ We plan to use this dataset of posts from conservative and liberal subreddited l
 [Reddit Dataset](https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts?resource=download)
 
 ## Design Process
-Feel free to take a look at the Google CoLab Notebook we utilized throughout the quarter to process data, train and evaluate the model, and tune the model to increase accuracy. 
+Feel free to take a look at the Google Colab Notebook we utilized throughout the quarter to process data, train and evaluate the model, and tune the model to increase accuracy. 
 
-[Google CoLab](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/1zfL2UtCyJnwAMzqeAAvfTigUU6rVxCca?usp=sharing)
 
 ## Developer Info
 - Mentor: Weiji Chen
