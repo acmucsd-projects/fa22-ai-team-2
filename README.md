@@ -1,16 +1,29 @@
 # GAIN (Gamers for Artifical Intelligence and NLP)
 
+## Table of Contents
+1. [The App](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
+2. [Project Summary](#Project Summary)
+3. [Developer Info](#Developer Info)
+
+# The App
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
+
 
 ## Team members
 Samvirit Srinath, Benjamin Johnson, Peter Gao, Calvin Nguyen, Skyler Goh, Joon Kim
 
 ## Project Summary
 
-Our project will involve currently involves one model:
-1. The first model will allow us to classify the political bias present in a sentence. This model will be trained on a data set containing sentences labeled liberal or conservative, and ultimately output a number on a scale of -1 to 1. We are using a transformer for this  model
-2. The second model will perform a Text Style Transfer to convert a politically charged sentence into one that is much more neutral. This model will use the classification model to judge how well each Transfer performed using the classification model, essentially using it as a loss function. We plan on using a Recurrent Neural Network for the second model. (This will be for a future project)
+Our project will involve one model:
+1. The first model will allow us to classify the political bias present in a sentence. This model will be trained on a data set containing sentences labeled liberal or conservative, and ultimately output a number on a scale of -1 to 1. We are using a transformer to reflect and process text snippets and output the political bias/sentiment of a certain text. 
 
 ## Dataset
+We plan to use this dataset of posts from conservative and liberal subreddited labeled by the source(liberal/conservative). We encountered some bias and leanings towards more negative sentiment titles, so  pre-processing and ensuring a good spread of data was crucial to the success of the project. https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts?resource=download
 
-We plan to use this dataset of posts from conservative and liberal subreddited labeled by the source (liberal/conservative). https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts?resource=download
+## Developer Info
+- Samvrit Srinath: [Linkedin](https://www.linkedin.com/in/samvrit-srinath/), [Github](https://github.com/SamvritSrinath)
+- Benhamin Johnson: 
+- Peter Gao: 
+- Calvin Nguyen: 
+- Skyler Goh: 
+- Joon Kim: 
