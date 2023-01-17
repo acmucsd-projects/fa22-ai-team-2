@@ -2,8 +2,9 @@
 
 ## Table of Contents
 1. [The App](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
-2. [Project Summary](#Project Summary)
-3. [Developer Info](#Developer Info)
+2. [Project Summary](https://github.com/acmucsd-projects/fa22-ai-team-2/blob/main/README.md/#project-summary)
+3. [Dataset](https://github.com/acmucsd-projects/fa22-ai-team-2/blob/main/README.md/#dataset)
+4. [Developer Info](https://github.com/acmucsd-projects/fa22-ai-team-2/blob/main/README.md/#developer-info)
 
 # The App
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/joonkim/bert-political-sentiment-analysis)
