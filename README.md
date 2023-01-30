@@ -33,5 +33,5 @@ Feel free to take a look at the Google Colab Notebook we utilized throughout the
 - Benjamin Johnson: 
 - Peter Gao: [LinkedIn](https://www.linkedin.com/in/peter-gao-14979b242/) | [GitHub](https://github.com/Spacefroyo)
 - Calvin Nguyen: [LinkedIn](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/) | [GitHub](https://github.com/Neniflight)
-- Skyler Goh: [LinkedIn](linkedin.com/in/skyler-goh-824635242) | [GitHub](https://github.com/yourgamer)
+- Skyler Goh: [LinkedIn](https://www.linkedin.com/in/skyler-goh-824635242) | [GitHub](https://github.com/yourgamer)
 - Joon Kim: [LinkedIn](https://www.linkedin.com/in/joon-kim-x64/) | [GitHub](https://github.com/jnkm1024)
